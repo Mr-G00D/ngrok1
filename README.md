@@ -4,7 +4,7 @@ Install ngrok ARM in termux with one click
 
 ### Screenshot
 
-<p align="center"><img src="https://tgfilestreamer.herokuapp.com/4922002740931036/Screenshot_20200807-143538.jpg"></p>
+<p align="center"><img src="https://i.ibb.co/ZfR2qGQ/IMG-20200807-143559.jpg"></p>
 
 ### USAGE
 
