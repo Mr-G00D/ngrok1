@@ -17,7 +17,7 @@ echo -e "\033[92m[•] \033[93mInstalling the requirements... "
 require
 echo -e "\033[92m"
 figlet "Installing Ngrok"
-echo -e "\033[95m"
+echo -e "\\033[92m"
 figlet "Mr.GOOD"
 wget https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-linux-arm.zip
 unzip ngrok-stable-linux-arm.zip
