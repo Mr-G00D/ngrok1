@@ -9,8 +9,8 @@ Install ngrok ARM in termux with one click
 ### USAGE
 
 ```bash
-git clone https://github.com/Mr-G00D/ngrok
-cd ngrok
+git clone https://github.com/Mr-G00D/ngrok1
+cd ngrok1
 bash ngrok.sh
 ```
 
