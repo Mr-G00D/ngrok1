@@ -22,9 +22,10 @@ figlet "Mr.GOOD"
 wget https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-linux-arm.zip
 unzip ngrok-stable-linux-arm.zip
 chmod 777 ngrok
-mv ngrok /$HOME
+mv ngrok /data/data/com.termux/files/usr/bin
 rm -rf ngrok-stable-linux-arm.zip
 echo -e "\033[92m"
 echo "[*][success]  ngrok has been installed successfully"
-echo "[*]Type  ' cd $HOME && ls ' to see the file"
+echo "[*]located on /data/data/com.termux/files/usr/bin"
+echo "[*]manually configure using authtoken from ngrok"
 echo "[*]B Y E"
